@@ -1,5 +1,4 @@
 ﻿using ClientDirectory.Application.Common.Interfaces;
-using ClientDirectory.Domain.Entities;
 
 namespace ClientDirectory.Application.Client.Commands.CreateClient;
 

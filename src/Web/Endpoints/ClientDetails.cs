@@ -1,7 +1,6 @@
 ﻿using ClientDirectory.Application.Client.Commands.CreateClient;
 using ClientDirectory.Application.Client.Models;
 using ClientDirectory.Application.Client.Queries.GetClients;
-using ClientDirectory.Application.TodoItems.Queries.GetTodoItemsWithPagination;
 
 namespace ClientDirectory.Web.Endpoints;
 

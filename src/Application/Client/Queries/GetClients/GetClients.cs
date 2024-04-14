@@ -1,7 +1,5 @@
-﻿using AutoMapper;
-using ClientDirectory.Application.Client.Models;
+﻿using ClientDirectory.Application.Client.Models;
 using ClientDirectory.Application.Common.Interfaces;
-using ClientDirectory.Application.TodoLists.Queries.GetTodos;
 
 namespace ClientDirectory.Application.Client.Queries.GetClients;
 

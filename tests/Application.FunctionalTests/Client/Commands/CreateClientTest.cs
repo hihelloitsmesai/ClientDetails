@@ -1,8 +1,5 @@
 ﻿using ClientDirectory.Application.Client.Commands.CreateClient;
 using ClientDirectory.Application.Common.Exceptions;
-using ClientDirectory.Application.TodoLists.Commands.CreateTodoList;
-using ClientDirectory.Domain.Entities;
-//using ClientDirectory.Application.TodoLists.Commands.CreateTodoList;
 
 namespace ClientDirectory.Application.FunctionalTests.Client.Commands;
 
