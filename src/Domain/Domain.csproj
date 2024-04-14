@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>ClientDirectory.Domain</RootNamespace>
+    <AssemblyName>ClientDirectory.Domain</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Identity" />
+    <PackageReference Include="MediatR" />
+  </ItemGroup>
+
+</Project>
